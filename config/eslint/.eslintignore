@@ -1,0 +1,3 @@
+../build/*.js
+./*.js
+/*eslint no-trailing-spaces: ["error", { "ignoreComments": true }]*/
