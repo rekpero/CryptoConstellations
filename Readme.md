@@ -28,6 +28,6 @@ You can take control of any available Constellations in the universe (you can ch
 
 [Dapp.Review](https://dapp.review/dapp/11373/CryptoConstellations)
 
-## Article
+## Blog
 
 [Medium.com](https://medium.com/dapp-com/cryptoconstellations-a-new-game-for-astronomy-fans-5d29f921b50b)
