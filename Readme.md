@@ -20,6 +20,16 @@ You can take control of any available Constellations in the universe (you can ch
 
 > 0x1D555590734778a6B5231d0b5EBE16780385f444 || [Etherscan.io](https://etherscan.io/address/0x1D555590734778a6B5231d0b5EBE16780385f444)
 
+## Stack Used
+
+**Frontend** : Vue, Semantic-UI, Bootstrap
+
+**Backend** : Truffle, Solidity, Nodejs
+
+**DB** : IPFS, Ethereum
+
+**Tools** : VS Code, MetaMask
+
 ## Links
 
 [Dapp.com](https://www.dapp.com/dapp/cryptoconstellations)
